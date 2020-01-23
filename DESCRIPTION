@@ -1,0 +1,4 @@
+Title: Sentiment Analysis with Python
+Author: Mohamed NIANG
+Maintainer: Mohamed NIANG <niango777@gmail.com>
+Description: In this project, we are facing a supervised classification problem on comments collected on amazon. The goal here is to process and then implement various models to determine the best model to make predictions on new comments.
